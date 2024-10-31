@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cafe_order>
+    <order_id>8</order_id>
+    <drinks>
+        <drink>
+            <name>cerveza</name>
+            <type>cold</type>
+            <result>true</result>
+        </drink>
+        <drink>
+            <name>guarana</name>
+            <type>cold</type>
+            <result>true</result>
+        </drink>
+        <drink>
+            <name>guarana</name>
+            <type>cold</type>
+            <result>true</result>
+        </drink>
+        <drink>
+            <name>tonica</name>
+            <type>cold</type>
+            <result>true</result>
+        </drink>
+        <drink>
+            <name>tonica</name>
+            <type>cold</type>
+            <result>true</result>
+        </drink>
+        <drink>
+            <name>coca-cola</name>
+            <type>cold</type>
+            <result>false</result>
+        </drink>
+    </drinks>
+</cafe_order>

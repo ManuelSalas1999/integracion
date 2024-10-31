@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cafe_order>
+    <order_id>4</order_id>
+    <drinks>
+        <drink>
+            <name>chocolate</name>
+            <type>hot</type>
+            <result>true</result>
+        </drink>
+        <drink>
+            <name>tonica</name>
+            <type>cold</type>
+            <result>true</result>
+        </drink>
+    </drinks>
+</cafe_order>

@@ -1,0 +1,16 @@
+<acta>
+    <id_asignatura>ADE</id_asignatura>
+    <convocatoria>2022sep</convocatoria>
+    <alumnos>
+        <alumno>
+            <dni>49520749F</dni>
+            <nombreCompleto>Marcos Peña Núñez</nombreCompleto>
+            <calificacion>5.2</calificacion>
+        </alumno>
+        <alumno>
+            <dni>72047260N</dni>
+            <nombreCompleto>Ana Barranco Paz</nombreCompleto>
+            <calificacion>No presentado</calificacion>
+        </alumno>
+    </alumnos>
+</acta>

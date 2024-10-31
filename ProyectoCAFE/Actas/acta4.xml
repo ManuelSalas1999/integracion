@@ -1,0 +1,21 @@
+<acta>
+    <id_asignatura>PCD</id_asignatura>
+    <convocatoria>2021jun</convocatoria>
+    <alumnos>
+        <alumno>
+            <dni>62472859B</dni>
+            <nombreCompleto>Francisco González López</nombreCompleto>
+            <calificacion>7.1</calificacion>
+        </alumno>
+        <alumno>
+            <dni>38583762J</dni>
+            <nombreCompleto>María Castro Cortés</nombreCompleto>
+            <calificacion>8.2</calificacion>
+        </alumno>
+        <alumno>
+            <dni>38592644F</dni>
+            <nombreCompleto>Inés Báez Gómez</nombreCompleto>
+            <calificacion>5.5</calificacion>
+        </alumno>
+    </alumnos>
+</acta>

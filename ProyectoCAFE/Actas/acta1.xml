@@ -1,0 +1,26 @@
+<acta>
+    <id_asignatura>IIA</id_asignatura>
+    <convocatoria>2022sep</convocatoria>
+    <alumnos>
+        <alumno>
+            <dni>48205573F</dni>
+            <nombreCompleto>Raúl Ramírez Castilla</nombreCompleto>
+            <calificacion>4.5</calificacion>
+        </alumno>
+        <alumno>
+            <dni>73194563S</dni>
+            <nombreCompleto>Belén Pérez Cortés</nombreCompleto>
+            <calificacion>8.7</calificacion>
+        </alumno>
+        <alumno>
+            <dni>62472859B</dni>
+            <nombreCompleto>Francisco González López</nombreCompleto>
+            <calificacion>9.1</calificacion>
+        </alumno>
+        <alumno>
+            <dni>71742843N</dni>
+            <nombreCompleto>Sara Martín León</nombreCompleto>
+            <calificacion>No presentado</calificacion>
+        </alumno>
+    </alumnos>
+</acta>

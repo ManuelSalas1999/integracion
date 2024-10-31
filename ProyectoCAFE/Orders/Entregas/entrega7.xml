@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cafe_order>
+    <order_id>7</order_id>
+    <drinks>
+        <drink>
+            <name>cafe</name>
+            <type>hot</type>
+            <result>true</result>
+        </drink>
+        <drink>
+            <name>te</name>
+            <type>hot</type>
+            <result>true</result>
+        </drink>
+        <drink>
+            <name>tila</name>
+            <type>hot</type>
+            <result>true</result>
+        </drink>
+    </drinks>
+</cafe_order>

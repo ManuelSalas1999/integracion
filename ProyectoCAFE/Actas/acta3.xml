@@ -1,0 +1,31 @@
+<acta>
+    <id_asignatura>MII</id_asignatura>
+    <convocatoria>2022jun</convocatoria>
+    <alumnos>
+        <alumno>
+            <dni>49693053B</dni>
+            <nombreCompleto>Rafael Lopez Romero</nombreCompleto>
+            <calificacion>6.2</calificacion>
+        </alumno>
+        <alumno>
+            <dni>38583762J</dni>
+            <nombreCompleto>María Castro Cortés</nombreCompleto>
+            <calificacion>4.4</calificacion>
+        </alumno>
+        <alumno>
+            <dni>49205826N</dni>
+            <nombreCompleto>Sara Dominguez López</nombreCompleto>
+            <calificacion>7.7</calificacion>
+        </alumno>
+        <alumno>
+            <dni>71740843J</dni>
+            <nombreCompleto>Borja Muñoz Sánchez</nombreCompleto>
+            <calificacion>No presentado</calificacion>
+        </alumno>
+        <alumno>
+            <dni>73583620C</dni>
+            <nombreCompleto>Marisa Martín Martín</nombreCompleto>
+            <calificacion>2.7</calificacion>
+        </alumno>
+    </alumnos>
+</acta>
